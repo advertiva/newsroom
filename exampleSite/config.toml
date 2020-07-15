@@ -1,4 +1,4 @@
-baseurl = "https://sgq.vercel.app/"  # Include trailing slash
+baseurl = "https://sgq.netlify.app/"  # Include trailing slash
 title = "Sabah General Quarterly"
 theme = "newsroom"
 author = "Weru"
